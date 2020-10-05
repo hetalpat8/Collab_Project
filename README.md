@@ -1,13 +1,13 @@
 Collab Project Roles:
 
 Team memeber: Carlos
-Lead for page 2
+Lead for page 1
 left and right wood panels
 header
 
 
 Team member: Ida
-left box
+left box/border style 
 Lead back up for page 3
 
 
@@ -17,9 +17,9 @@ Lead for page 3
 footer
 
 Team member: Josh
-Lead for page 3
+Lead for page 2
 navigation bar
-images
+image grid
 
 
 Team member: Keith
